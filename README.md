@@ -3,9 +3,9 @@
 In this study, we aim to understand the customer base of an American bank to categorize them into groups using the "clustering" technique. This allows us to tailor marketing campaigns that are increasingly effective and specific for each group.
 
 ## Data Preparation
-The data source for this project is from Kaggle, and it can be found [here](link to Kaggle dataset). The dataset comprises approximately 160,000 records, with 8,950 customer entries classified across 17 features.
+The data source for this project is from Kaggle, and it can be found [here](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy). The dataset comprises approximately 160,000 records, with 8,950 customer entries classified across 17 features.
 
-For a comprehensive understanding of each column, please refer to the complete explanation provided on the [Kaggle website](link to Kaggle dataset). However, some key features that will be crucial in the initial analysis are:
+For a comprehensive understanding of each column, please refer to the complete explanation provided on the [Kaggle website](https://www.kaggle.com/code/caesarmario/clustering-for-effective-marketing-strategy). However, some key features that will be crucial in the initial analysis are:
 
 - **"BALANCE"**: The amount of money the customer keeps in their account.
 - **"ONEOFF_PURCHASES"**: The quantity of one-time purchases made by each customer.
